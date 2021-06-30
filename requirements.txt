@@ -1,0 +1,21 @@
+# each portion of tensorflow is needed
+# core package is for RNN, cpu and gpu are for specific system speed-ups
+tensorflow==1.14.0
+# tensorflow-cpu==1.15
+# tensorflow-gpu==1.15
+umap-learn
+visdom~=0.1.8.9
+librosa>=0.5.1
+matplotlib>=2.0.2
+numpy>=1.14.0
+scipy>=1.0.0
+tqdm~=4.61.0
+sounddevice~=0.4.1
+Unidecode~=1.2.0
+inflect~=5.3.0
+PyQt5~=5.15.4
+multiprocess~=0.70.11.1
+numba==0.48
+
+scikit-learn~=0.24.2
+SoundFile~=0.10.3.post1
